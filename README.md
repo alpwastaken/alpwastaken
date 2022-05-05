@@ -4,8 +4,7 @@
 - 👀 I’m working on open-source projects.
 - 🌱 I’m currently learning C and Linux.
 
-I'm using Gentoo Linux!
-
+## My stats
 [![Alp's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpwastaken)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Projects
