@@ -8,9 +8,9 @@
 [![Alp's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpwastaken)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
-* Discord: alp#4202
+* Discord: severdanin
 * Telegram: https://t.me/alpwastaken
-* Matrix: @alp:kreatea.space
+* Matrix: @alp:envs.net
 
 ## Operating systems I used
 * ![Windows](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=white)
